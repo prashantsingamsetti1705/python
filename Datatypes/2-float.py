@@ -1,0 +1,12 @@
+a=1.24
+print(a,type(a),id(a))
+################
+a=1.24
+b=2.34
+c=a+b
+print(a,type(a),id(a))
+#############ex
+a=3e2
+print(a,type(a))
+b=10e-2
+print(b)
